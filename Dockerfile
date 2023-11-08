@@ -8,7 +8,7 @@ WORKDIR /app
 COPY target/calculator-app-1.0-SNAPSHOT.jar calculator-app.jar
 
 # Expose the port your application listens on (if applicable)
-EXPOSE 8080
+EXPOSE 8000
 
 # Define the command to run your application
 CMD ["java", "-jar", "calculator-app.jar"]
