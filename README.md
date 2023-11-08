@@ -11,4 +11,6 @@ Java code for a Calculator application which will be used in Devops Pipeline.
 
 4. Push the image to the DockerHub/Image registery
 
-5. Deploy the application in ec2 server 
+5. Deploy the application in ec2 server
+
+6. Added Webhook for auto trigger in Jenkins
